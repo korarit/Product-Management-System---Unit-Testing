@@ -23,6 +23,8 @@ DB_PASSWORD=you_password_db
 DB_NAME=productm
 ```
 
+### file product.test.js เป็นไฟล์สำหรับทดสอบ
+
 ### command for unit testing
 คำสั่งสำหรับทดสอบ
 ```
